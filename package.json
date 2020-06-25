@@ -10,7 +10,7 @@
     "green",
     "bluegreen"
   ],
-  "repository": "https://github.com/atom/bluegreen-syntax",
+  "repository": "https://github.com/laurenbarry00/bluegreen-syntax",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
